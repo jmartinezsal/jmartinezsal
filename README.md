@@ -1,9 +1,27 @@
-### Hi there, my name is Jose L Martinez Saldaña 👋
+# Hi there, my name is Jose L Martinez Saldaña 👋
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=jmartinezsal&theme=radical") />
+ </div>
+                           
+## Projects 
+<div align="center">
+<a href="https://github.com/jmartinezsal/Culturegram">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=Culturegram&theme=radical" />
+</a>
+<a href="https://github.com/jmartinezsal/heirbnb-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=heirbnb-app&theme=radical" />
+</a>
+<a href="https://github.com/jmartinezsal/noteIt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=noteIt&theme=radical" />
+</a>
+<a href="https://github.com/jmartinezsalstatOverflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=statOverflow&theme=radical" />
+</a>
+</div>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmartinezsal&theme=radical)
 
 ## Technical Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmartinezsal)
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
