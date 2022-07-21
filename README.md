@@ -1,27 +1,27 @@
 # Hi there, my name is Jose L Martinez Saldaña 👋
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jmartinezsal&theme=radical") />
+ <img src="https://github-readme-stats.vercel.app/api?username=jmartinezsal&theme=radical&count_private=true&hide=stars,issues&show_icons=true") />
  </div>
                            
 ## Projects 
 <div align="center">
 <a href="https://github.com/jmartinezsal/Culturegram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=Culturegram&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=Culturegram&theme=dark" />
 </a>
 <a href="https://github.com/jmartinezsal/heirbnb-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=heirbnb-app&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=heirbnb-app&theme=dark" />
 </a>
 <a href="https://github.com/jmartinezsal/noteIt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=noteIt&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=noteIt&theme=dark" />
 </a>
-<a href="https://github.com/jmartinezsalstatOverflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=statOverflow&theme=radical" />
+<a href="https://github.com/jmartinezsal/statOverflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=statOverflow&theme=dark" />
 </a>
 </div>
 
 
 ## Technical Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmartinezsal)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmartinezsal&layout=compact)
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
