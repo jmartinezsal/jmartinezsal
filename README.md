@@ -3,7 +3,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=jmartinezsal&theme=radical&count_private=true&hide=stars,issues&show_icons=true") />
  </div>
                            
-## Projects 
+## 👷🏽‍♂️ Projects 
 <div align="center">
 <a href="https://github.com/jmartinezsal/Culturegram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmartinezsal&repo=Culturegram&theme=dark" />
@@ -20,7 +20,7 @@
 </div>
 
 
-## Technical Skills
+## 🔎 Technical Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmartinezsal&layout=compact)
 
 ### 📋 Programming Languages
